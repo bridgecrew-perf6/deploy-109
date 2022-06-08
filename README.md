@@ -1,2 +1,2 @@
-# D to gh
+# Deploy to pages
 
